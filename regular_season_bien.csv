@@ -1,0 +1,21 @@
+RL,Equipo,PJ,PG,PE,PP,GF,GC,DG,Pts,PtsPJ,xG,xGA,xGD,xGD90,Ultimo5,Ultimo4,Ultimo3,Penultimo,Ultimo,Asistencia,Maximo_Goleador,Goles_max_goleador,Portero
+1,Barcelona,14,12,1,1,33,5,28,37,2.64,32.6,9.9,22.7,1.62,2,2,2,2,2,83194,Robert Lewandowski,13,Marc-Andre ter Stegen
+2,Real Madrid,14,11,2,1,33,14,19,35,2.5,30.6,13.5,17.2,1.23,2,2,1,0,2,57552,Vinicius Junior,6,Thibaut Courtois
+3,Real Sociedad,14,8,2,4,19,17,2,26,1.86,18.5,12.7,5.8,0.41,2,0,0,1,2,32580,Brais Mendez,6,Alex Remiro
+4,Athletic Club,14,7,3,4,24,14,10,24,1.71,21.6,9.7,11.9,0.85,1,0,2,0,2,43099,Inaki Williams,5,Unai Simon
+5,Atletico Madrid,14,7,3,4,21,14,7,24,1.71,18.3,16.0,2.2,0.16,1,2,0,1,0,54507,Alvaro Morata,5,Jan Oblak
+6,Betis,14,7,3,4,17,12,5,24,1.71,18.5,16.6,1.9,0.14,1,0,2,1,0,51290,Borja Iglesias,8,Rui Silva
+7,Osasuna,14,7,2,5,16,14,2,23,1.64,18.2,13.1,5.0,0.36,2,1,2,2,0,19156,Ezequiel Avila,6,Sergio Herrera
+8,Rayo Vallecano,14,6,4,4,20,16,4,22,1.57,16.7,17.8,-1.0,-0.07,1,2,2,2,1,12482,Alvaro Garcia,3,Stole Dimitrievski
+9,Villarreal,14,6,3,5,15,10,5,21,1.5,17.2,14.6,2.6,0.19,0,2,0,0,2,14465,Alex Baena,4,Geronimo Rulli
+10,Valencia,14,5,4,5,22,15,7,19,1.36,20.3,14.5,5.8,0.42,1,0,0,1,2,41481,Edinson Cavani,4,Giorgi Mamardashvili
+11,Mallorca,14,5,4,5,13,13,0,19,1.36,13.2,14.2,-1.0,-0.07,0,2,1,2,2,14788,Vedat Muriqi,8,Predrag Rajkovic
+12,Valladolid,14,5,2,7,13,21,-8,17,1.21,13.5,21.7,-8.2,-0.58,2,2,0,2,0,19794,Sergio Leon,5,Jordi Masip
+13,Girona,14,4,4,6,20,22,-2,16,1.14,18.5,17.7,0.8,0.06,0,1,1,2,2,10777,Cristhian Stuani,4,Juan Carlos
+14,Almeria,14,5,1,8,16,22,-6,16,1.14,13.7,21.7,-7.9,-0.57,2,0,2,0,2,12155,El Bilal Toure,3,Fernando
+15,Getafe,14,3,5,6,12,20,-8,14,1.0,9.8,16.8,-7.0,-0.5,1,1,2,1,0,11510,Enes Unal,4,David Soria
+16,Espanyol,14,2,6,6,16,22,-6,12,0.86,15.8,17.4,-1.6,-0.12,0,1,1,1,0,19211,Joselu,7,Benjamin Lecomte
+17,Celta Vigo,14,3,3,8,14,26,-12,12,0.86,13.9,16.9,-3.0,-0.22,0,1,0,0,1,13640,Iago Aspas,7,Agustin Marchesin
+18,Sevilla,14,2,5,7,13,22,-9,11,0.79,14.1,24.9,-10.8,-0.77,1,0,0,1,0,36750,Oliver Torres,3,Yassine Bounou
+19,Cadiz,14,2,5,7,9,26,-17,11,0.79,10.2,26.1,-15.9,-1.13,1,0,2,1,0,17415,Alex Fernandez Lucas 1rez,2,Jeremias Ledesma
+20,Elche,14,0,4,10,10,31,-21,4,0.29,10.3,29.6,-19.3,-1.38,0,1,0,0,0,21337,Pere Milla,3,Edgar Badia
